@@ -1,0 +1,16 @@
+{
+  "name": "curry-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xurry.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest watch"
+  },
+  "author": "Matthew Weeks",
+  "license": "ISC"
+}
